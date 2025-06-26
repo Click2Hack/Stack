@@ -3,7 +3,9 @@ Reqd packages
 
 
 npm install express qrcode
-##To run type below
+
+##To run type below###
+
 node server.js
 
 ##
