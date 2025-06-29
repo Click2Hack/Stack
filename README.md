@@ -27,8 +27,11 @@ my telegram contact @KT777mia if any questions
 
 Problems "i am facing are when customers see momos they see an arrow box in which they can select by default value : Full plate and customer can modify it to half plate {i was not able to implement this logic 
 
+
+waiter bill water option integration and unlock only after waiter successful qr scanning 
+
 second problem " when ever i click on any item option i wanted like " no. of time button press will multiply with type of quantity choden by customer in cart with 3 different sorted categories so that customers can easily preview the cart  }"
 
+the thing is i want like send bill to customer's whatsapp number after successful purchase if exist...
 
-i wil be very very happy if you will help me in my project ... actually i need them for my startup .. Thanks 
-
+and do like when customer scan qr from our table it will tell like from which table order has arrived 
